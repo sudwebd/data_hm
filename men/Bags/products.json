@@ -1,0 +1,174 @@
+[
+    {
+        "subcategory": "Bags",
+        "name": "Small shoulder bag",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/87/ee/87eea28283d0c6582cbdb47b1397d90a1a11ad3d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5d/11/5d119afd0ca3d9e88b3a3518dfab933dc1dcdeba.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1240433001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Bags",
+        "name": "Shoulder bag",
+        "price": "Rs.2299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/3c/4b/3c4b98e959c399bc19e3b3b477a1119a6d93c684.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1240432001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Bags",
+        "name": "Shopper",
+        "price": "A/W 2024, Rs.2299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b1/f5/b1f5210985646663e2b8025b298afbbfd7594045.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a4/61/a461100ab99cb4ff494882cd35b4d4859f63a453.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d7/da/d7daa9e3dd81eecaca001395741c3e751db3bf3e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5b/0f/5b0f10d24409b495973147bc20d96cc939983a1f.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1240430001.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Bags",
+        "name": "Shopper",
+        "price": "A/W 2024, Rs.2299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/90/36/903606ccba0e8d4cab8bdfd50a6dbccdd6cb1d6c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a0/a0/a0a0b073275e61954c62ea0e4f2717415a5ea980.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9a/87/9a87bb4aaf841a8bc4d57366290b436bb40d74b8.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/aa/df/aadf351138b29890cafb3666977bef6e7df212de.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1240430002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    }
+]

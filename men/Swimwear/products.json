@@ -1,0 +1,688 @@
+[
+    {
+        "subcategory": "Swimwear",
+        "name": "Swim shorts",
+        "price": "Rs.1299.00, +1",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/e5/dc/e5dc1dce8f4e1d2fbdada7a076d8e9f27cffbde0.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/45/22/45222dabea7576d92c8fb441282d3afe0d852114.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/f9/f1/f9f1f2e3d35d09a36d122ecd38e3710d97e34d18.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/54/1d/541db614d30a24264f9d91f2c69c61707571941d.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/54/6d/546deec336cd222cdea6e6a7c0d6750f2f9c066a.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1238634002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Patterned swim shorts",
+        "price": "Rs.1499.00, +1",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/30/5a/305a3a364c93e92ce5f35ecb10172ed89f7bd5d3.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/27/7e/277ec6d7f3f3973c6de82ed09ff6871e87d37cbd.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/84/53/845311d51643e2cb75465649c3fe9339b0f593a9.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/1d/75/1d750dc4679f0aa3fa02c9417f6e578e8576ba04.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/31/2e/312e21e68b9026a64a7a538e27a6825e7c08ce28.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1238635002.html",
+        "stores": [
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Patterned swim shorts",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/0d/eb/0deb76c496602cccd25cf828704c8fc6c5d251aa.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/77/3e/773e952855df6aef1dc1808c05bf040fde9e2a8d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/13/46/134694af5373f1b18262f1ae72da7474037b153f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/79/a5/79a5c1a6069efbac3c3d4c7f57048b9a5a0515ca.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e7/9c/e79c8c6ff596b1bc2aab615d0af5b36578576ff0.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0944720036.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Patterned swim shorts",
+        "price": "Rs.1499.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ac/c5/acc56e3f40a2f30521d4c29308e419d682b1a25c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/62/24/6224361ef30a5e6ec4b3cd3f707a4316409a35fd.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/42/31/4231c2e0faa8023f1276f0d5b31046da9bdecca1.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2d/d4/2dd44f3bf0fb17939f4d829502f52371ce51f090.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ac/44/ac44ce76f6596269e34cc5b6eeb2212900b636ab.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1238635001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Swim shorts",
+        "price": "Rs.1299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b8/54/b8546e436d07612f7fd1a9760e1b509ecbce1289.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/69/3a/693abd97639e258ea34f5355dfca6d40d4d8fe60.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c8/2d/c82d69ee0642f6fa70c6a5a94e5184680b5bf1e8.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4a/2f/4a2fb1058e6679824f60a52dfd8a2d47027ed8dd.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ed/03/ed03e6dde5c5bf4de4ae9a4b8bdac7a81ef75d27.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/74/11/741124d19df81064e2d115333bd2a0a6f6b5018f.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1238634004.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 3000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Swim shorts",
+        "price": "Rs.1299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4b/c6/4bc676ea97cf20661f372d75675fba1fa7cf66ba.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5f/91/5f91ee3c8cd4284fc24a96d5b458c74a6042703b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/24/ae/24ae866d3f4bb2ca93a8f3f188266a6299a4bf9e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/6f/11/6f111427c823b5c40ff5a4df9ec7e793c8ba0489.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bb/5f/bb5f0cc73ba8e4e0cac05ae0e9a74efe972126f3.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1238634001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Patterned swim shorts",
+        "price": "Rs.1499.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a5/17/a517e656ac46270669b741778719afef987c9a39.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/27/99/27990c198b1c22350804cf42eafd7171d9c77649.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/58/bb/58bbf842d24ef239902a2ce47d65889036d90393.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/7b/d7/7bd7db54dcd379afddd7982a06713211458b753a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/19/cc/19cc8998501a9bd91f66d52c433272c0609844e9.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1238635003.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Swim shorts",
+        "price": "Rs.1299.00, +3",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a6/34/a634956c039322aef1c2084ef976008297042ebb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d5/24/d52440d010e7735f7307bf0ed0f329881fe12fc8.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/55/c5/55c5558578c6d56fc04e4fa1ada9842846b9b3ac.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a0/31/a03134b534898adad02008f410b833ae47d0c035.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/93/59/93590202e46587b6db6fbda4329f2582dc48bf37.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ac/81/ac811f54677c59bc21ef3aa719fb8a29aa9d2074.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0944370048.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Swim shorts",
+        "price": "Rs.1299.00, +3",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/89/d4/89d4022b263101e6fd6b171f04cf10ce657f62e8.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/53/e6/53e6dbccb7a06a0d875217791b48d5a4c3c1def7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5c/fd/5cfdde6eee5f0a0c9ca8d2f93c17186a1cd3f970.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/88/ac/88ac38e1ceaa4163428633b1a39038298ebb20cc.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ea/2e/ea2e351061466f887d3b14439a07b998b533e8b6.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0944370033.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Swim shorts",
+        "price": "Rs.1299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9c/d5/9cd579a0e90e5be022c4f51b9b429b8c75a49478.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/18/4d/184d40ed06aed719753468ec6e4dc62dd899913f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5b/24/5b248c9c07c3f099025d3e14aff8b4c738924cbc.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/41/3f/413f747cdd9d57fcb6f4a87282eab263ef5401fe.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d7/e3/d7e3ffdf5d7637ff4d8bb09daf2f57e84390f970.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1238634003.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Swim shorts",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b6/55/b65575f67044c44f025d5df35fd0d2ae5d6d860e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5e/13/5e13daff3f7233d45566dfa2fc6e715e544c79e1.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/23/06/230679e4601edaab2503151fbf91568acf7a4bb0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b3/24/b3242b2a8dc15086c4dae4b58253f6c1633f4553.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/1c/79/1c79854159526ef75579f88758aec2e499dd8d93.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/93/aa/93aaf23a7e276126c2fcb4e6e1002596175627ea.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1207940004.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Patterned swim shorts",
+        "price": "Rs.1499.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f4/56/f4565099c7e839cbd03d2e5ac9703f2c0c229579.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d2/3f/d23f08ad80f026e61a86ccfdf3fc1cc9ecf025c6.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/77/f3/77f39d3cea9027191577275f36b17e46706a0079.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/80/ed/80edcab542cb37198ce86a1be495a96acc8195a3.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f6/3f/f63fa46355e460e3bd9eca9eaf4b46b2d0d29f90.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1238635004.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Swim shorts",
+        "price": "Rs.1299.00, +3",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/10/95/10956b4a04071a20f679b0cc2b64e66be52acc51.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/01/d2/01d285433750aa45750e6ef9af430791b336adee.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/c6/cf/c6cff170caf55412e4dcd7cc504cdd842628de0b.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/0f/86/0f860de43da9727b95f21c1ca9ea935a77dca2f3.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/b8/65/b8654a1e1edbe92f2d792491e7438a95a6ffd916.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/53/81/538163f423dd9f1df18aa0889cb9d3018a21cd0f.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0944370034.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Swimwear",
+        "name": "Swim shorts",
+        "price": "Rs.999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/04/df/04df5b11ad012097bb7079b404e2356fc0be9294.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b8/c4/b8c4a6c4c6dcd77c01debbecbe909a9722448711.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f5/88/f588dcafe7d6efb4127b71944da21f452706b4e2.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/28/8a/288abf24465dad9f09d5693559a47283be746e73.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bd/0e/bd0e2240e20843a269acd91de2a28a3c99fe5fac.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/41/1a/411a9c9c71afffccf936312f41d2d5f03da3d270.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/cc/45/cc456a7a69a894da629f173ad21109cfed3c77a7.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0944721027.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    }
+]

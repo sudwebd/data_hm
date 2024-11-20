@@ -1,0 +1,2156 @@
+[
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.799.00, +5",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/da/cd/dacd3418e0bf0dbe4eee477b7278f3a4f593bff4.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/1b/9a/1b9a40df036db9f0eeaf83ccda1a5c1445f1e93a.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/94/8b/948bfefe7c1ed1325234f9a04a749a8f22752ac9.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/14/90/14908bb73805fd4fc49332f69393183fcd7afc5f.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/da/ab/daabea1452bed3311176b1be0b95967a43f55133.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0956343001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Regular Fit Piqu\u00e9 polo shirt",
+        "price": "Rs.999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d9/f6/d9f6606a07acc2099f84eed5412eede08a9bedcc.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2e/9f/2e9f143ad477b7695149b67c0b2d0b0343d3041d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/24/d9/24d9d2fbd431c0efca4b08e08cbbcb7bce426d0d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/0f/cf/0fcfe36317b91ebb44706e333e2d4d1d0a9e54a4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f5/2e/f52e17ec118402dfca27bfca5b03034f91d6cbdf.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4e/1c/4e1ca7dd6749e2918158c9c49d749bf57a46e6ad.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d0/ab/d0ab887a1cfe23ca27fcdfeab6e650b04ad46033.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1209183001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Regular Fit Piqu\u00e9 polo shirt",
+        "price": "Rs.999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b6/0f/b60f80eec2e5748390989c8b878341389a649c5c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/19/27/192743ca2ddaaae8b8467b5d6c5e23785d1c7b5a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/52/fe/52fe2e0eb213d0de8a0a9d8724b04cb56e34105d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/3a/e0/3ae02364582c1a6230437a44a2411caea7cc126d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ba/04/ba04166745d4f7797638ad79a0716dec7cf82536.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c7/f5/c7f57d98d07719d2733a65c99ec7c677700b8759.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/52/88/5288fb65196c762975608012b0dd11e7e5183139.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1209183002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "COOLMAX\u00ae Slim Fit Polo shirt",
+        "price": "Rs.1299.00, +3",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f2/d1/f2d160be04e9dc049dd192d96badc35f32902cbe.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/46/51/46514e0b9a598b12a64a1f56ddee1c9f0afe1440.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/77/5d/775d093e52b81d56a97f23767b894b1f9bf8af5b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2b/36/2b36cfeb0b8e354ffc525ac8ac3640dee50793c4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/35/3c/353cada90e8f81f8f183ce6cd20500eb89501334.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/53/b1/53b1668a3485d5cfc8516269c6e0c0cb246047d7.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0967154003.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.799.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c5/c3/c5c3048b1d0adff184f8e0b9311a7f18247f830e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2f/9f/2f9febb6a47d54c555878d2bc5415aaa5df36013.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4e/09/4e09031e6d6cfcfd2feba5da5d8323b541d97d2a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/6f/fa/6ffab373361f2208796fed7c8424c77ac0ea08e9.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/66/1e/661e3ec26fddba8aa14fba26ad6bb820591c52a6.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/7a/d2/7ad2531ce3c322955018f1c1c43aeeada77975d4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bf/c6/bfc652fe3673d7da8ba0d0cb261ce5c682a95ce8.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0956343061.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Waffled polo shirt",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e0/e6/e0e65d1989474489ea9ef6ade52298b2b2c8a7bf.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/86/21/86217fddf680494152081271b9ad0d14c823dac7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/02/4d/024dc901a2793aed823f3799abdc9053341b9546.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/78/ec/78ecc17653f915a7a75220fab6f6aab478d7f88e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/76/f4/76f4b10f6be9b3366188ffbbfb7b9c3f287b62ad.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/aa/d5/aad588f080ae33df99ac5b061f53f2f3d9bb700d.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1171307001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/1b/38/1b381be4a7678ed7c4519aa6c7fdd497e9d7a94d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/87/c4/87c4c56206c9c34ddafd81255a6db5a4db499ad7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/dc/80/dc80e103659dead3500797aeffc80ece9385e2a8.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/85/8b/858bf19873f0fafe1d9595c2a9b376803a7d6a68.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ba/44/ba4423e999e190d2622beeea0d04e3d23015cad9.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c9/7e/c97e3578817eaf3fc227f6bd115b5b4fcb9dd485.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1247834001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Regular Fit Textured polo shirt",
+        "price": "Rs.2299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e7/50/e7508cdef6bdbbd0df6777cafa14dac6f8c23e79.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/63/70/6370710db344d5290f370d5eaa2ad11af28d8e59.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/84/7c/847cece118e6a16bdcc1058f43ab67d5f7fc226f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e3/07/e307484e5f7fac893e1b4ef7ba30e2b6f257b625.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2a/9d/2a9d16448b4ba50488733bc542772aa14778e7bc.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f6/80/f68039185da440ce494e0e5c5c4a068dbacb77e1.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/30/87/3087cff2e072d06d7fa69d3d5ceeacc904476168.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1233102001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Cotton polo shirt",
+        "price": "Rs.1299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/99/db/99dbdf47291d4612ebefa157bbcef117d8dca8f4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/63/38/6338417b42058716d3a4919a0237847bf816a240.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9b/de/9bde3d781b4e63819b470557783ae83d2ad00104.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/83/0a/830a2c3868ff346bd801ca828a0ff0c92ceea399.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2a/b6/2ab671fed49e065e601a63b21632c04eb6241b49.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b1/86/b1865b41a3000082a77fef1b56563b29974d15ad.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1130226011.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Cotton polo shirt",
+        "price": "Rs.1299.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/99/db/99dbdf47291d4612ebefa157bbcef117d8dca8f4.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/63/38/6338417b42058716d3a4919a0237847bf816a240.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/9b/de/9bde3d781b4e63819b470557783ae83d2ad00104.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/83/0a/830a2c3868ff346bd801ca828a0ff0c92ceea399.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/2a/b6/2ab671fed49e065e601a63b21632c04eb6241b49.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/b1/86/b1865b41a3000082a77fef1b56563b29974d15ad.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1130226011.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Regular Fit Waffled polo shirt",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/9e/8d/9e8deff71c4148d0e2db643ba6331a68c94fbf6e.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/a5/93/a59385f75e8db1455d9de67b30f9d7820c13cb81.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/ec/3a/ec3adb7811a2d36d84f824971759edff352991cc.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/3b/36/3b362e7835e11332a98db18b5734b1381d39b80a.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/83/ab/83abf006b6de2a76ef26905db5999ad92388992b.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/7e/45/7e45b699f92e46338f3e6edf249f2559eefdc5ef.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/d8/78/d8783ca1cd3a6cb5e34df20ad881fd1157a612d6.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1231659002.html",
+        "stores": [
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Textured-knit polo shirt",
+        "price": "Rs.2299.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/67/7b/677bbda7d85fa1a5858d010ec9d7ea5609c50187.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/12/cf/12cf1d0220a0ebff55261c505de54ed50c98dc0f.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/6a/78/6a78c2be082e537e60ce7115a3726769ed011866.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/2d/ff/2dff737fcb0df22c16a32e9037a241efe2c3833e.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/b7/c2/b7c255f86fcaa4a37f98a008a5d9f11cac02298c.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/55/bb/55bba8b1e81863178fc17d67a0c4094279968646.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/18/dc/18dc8fa660297fd0775653dd554840e8beb65cbf.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1232217003.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.1499.00, +3",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a6/82/a68215c97930c190ee06d47d3b84ff0e2e890243.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/fc/d7/fcd760bafdfb48ea8cccde14c5e3ad338dd96bfd.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ca/84/ca84db80f2eb03bd6d93acfd3c535a2aada7f8b7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/28/41/2841eb2cf603bbb3683d4487017afc1b3e653f0c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f2/ae/f2ae4aff27c2b2112cf54a61ac448a016b2927fb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/82/6b/826b26f287e6336efc258aaba232a79340192f0c.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1245997003.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Cotton polo shirt",
+        "price": "Rs.1299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/0d/c5/0dc5e067a2642f648c6034ef03d8f1ed4c2fba58.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b7/df/b7df529832835e180956490d16ba2f125cea7d4c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f3/3b/f33b8841dd69a60f7cc9f01f84768ad73a7dd5c7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/98/c8/98c8e0aaf28ac5f0b56a6e6402ff28e385a37f2d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/48/bb/48bb9deaf1d8454deb8f88a9dc0c2e38f7723416.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d7/2e/d72e00f99a182781f783eefcfcaaf395e0614815.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1130226013.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.799.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ad/3e/ad3ea5efbecb0b1b0a4921f72457a168c4e40137.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/fa/0b/fa0bf757bd60fd5be16bf3d6c86711038d06354a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/81/98/8198472233c31e3205976527266a67b99bf589b7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5d/59/5d5963e48800505306c42d8816eb873c25d65b83.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/15/78/157809064feb6056145bbfd65af62128be7405f9.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4e/d1/4ed19f056f1cd5fd75f34523b64b7fb4bcfff105.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0956343043.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Textured-knit polo shirt",
+        "price": "Rs.2299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/28/b7/28b760fe78f50870c5116c288be8534151e6d241.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/fc/b2/fcb28829f362822268268888da7d63d8dd87e647.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/fe/b2/feb263560cf7c8a632538b18b811cf36656e91c0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/af/d0/afd007d0b33a4cba066993c8d24a14bb8b73a0e1.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ec/e7/ece7b19d8d043ae73ce818a264e298ad70849d67.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b2/02/b2021de7edcea44d8cb57369c8751b5b1b70f9ae.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5b/72/5b7282d65babead2373c540713fde922ddebfa1d.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1232217001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Regular Fit Textured polo shirt",
+        "price": "Rs.2299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bd/19/bd194bd54c1fa69429e137fe4c510fff6976df5a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c1/09/c109a34041695a0d9cd79155cee8dffe31ebdd8a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/05/6e/056ee5bb040a6aa14f86fc881692835fe27a6439.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/db/50/db504b54b8644faebee7809b98bea71d3281b594.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e7/d4/e7d4e32dd34f4076dbaa02291e033a08e786334b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e3/73/e373b9b3fec8765eee54dc9589172525b2ac3906.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ea/e5/eae5da1e6b4f3b964f3cd9e0c9345485a161745f.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1233102002.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Textured-knit polo shirt",
+        "price": "Rs.2699.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8b/c9/8bc9c3472b235b4df7144874d315669fcc0ad8fe.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/40/24/4024e87f463d1cc49996761c98ceba131dcbc130.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/42/e5/42e5bd0f8767e4d0959d6403ce4bfd3c456bcb80.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/09/bf/09bffc157e2fce2aff8942d0e01304ee4687615d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f0/c8/f0c800760d539d5f2dfe49cb4db2321f5528d633.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/83/5d/835d99414a86a9780f679c2f86598a416078e7dd.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1245365002.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Textured-knit polo shirt",
+        "price": "Rs.2699.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9c/0f/9c0ff503a3c54b03ebddc9489822569621d6f9a7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/17/33/1733b3c1cdce83e907432317f3aa0d60645ab8d2.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b2/72/b2726016582ed06ab1c5b344c709ec98e4577a51.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ba/6b/ba6b1dd73c769f5e631663d418d9b7ee904247f4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a6/21/a62195cd17db75bb2adc287d9cb7583f849b4f18.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/87/bd/87bd90e78e1c1d56dfe9e3166811b9d96035853a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/51/88/51886dda88231d5a973671c25075f68bad27264a.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1245365004.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Lyocell polo shirt",
+        "price": "Rs.1999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/61/ff/61ffabb798da24cfa1330b9b1be04a8bfb5de4b7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/50/aa/50aa57c1127f869085f9139a5154ffb5d98231fa.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/0d/08/0d083bfdc98e4c337e304c92a85a5887844c4473.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/6b/7b/6b7ba049015cb1ce8ddfa139e7dac507bcf379fb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/93/ea/93eaa3fb5a08fa7b8c5f45a30fa0d5ebfce22778.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/73/66/73660f3589b5e26a1539381c95a1033c0af43207.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/be/c3/bec3ec0a2d4c31fe63ed1e0809d9489676c5346c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4e/1b/4e1b704afb787b2425283b89fb78a0360616da47.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1232559002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Lyocell polo shirt",
+        "price": "Rs.1999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c2/db/c2dbf2c0321856a64ef22f75a30ee96d43a14155.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/7d/f7/7df78c285783e2b7d1b345465bd28665a076ca89.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a2/fc/a2fce2fa6f39d3772cf1c9cec494aa7575e14f0d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b1/18/b118cfb34d90dddda6f397362d6ad550909903e1.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f5/2e/f52e8364eee243d5da0464dbc896fbb8919090bb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c7/5c/c75ccc8a132a7d9754f1fd4fc870a7e39cc36b8f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/56/e9/56e985eb61291840aa74388558bc0b3d6301821b.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1232559001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Textured-knit polo shirt",
+        "price": "Rs.2699.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/1e/7c/1e7caf19fcee57edd553073de3b06cf76f218ad6.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/be/91/be914912f90d81c4178517c5e0444d6b8c1e4df2.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/87/3b/873bc277290be8980d9a3b1d5851327631fe263d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/56/b0/56b0f2e40fde55283dbc562d94fccc89f34d8eaa.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/df/fb/dffb26e0fe9c7beaf1036102d1776c892f74aef0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2a/d2/2ad26242dc980e68b09cc52540280c8fe2b4547f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d5/49/d549deafc872b0d39385f1feaf45c166e3fe813b.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1245365003.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Scuba zip-top polo shirt",
+        "price": "Rs.2999.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/61/7e/617e1f62fd51f115b2c398ffdf02663c4817e32a.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/72/ed/72edc268f965e1dd26f234687729e1a5e00b9c15.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/a5/13/a5133cddb4326f9421762186fb977474d7bbfc9b.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/48/6e/486e993799d90848cebe71c609325cd46015672d.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/38/01/380155b9066ff8e22668c8e69062f94e1bb5f013.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/67/44/6744533a49099875d645ab447a4c2ececa6a134f.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/da/fe/dafea4cdf96c7665e4b8449757ccc855b0c40633.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1201461002.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.2299.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/ac/c2/acc29551ad16069725f617aabf3dcaf1f3b4b624.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/7c/c9/7cc90f04de2c47bd23ddf09dfbb0258759292531.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/c0/16/c016a3dece12cc80db9c710847e24d1f0994c2b5.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/b0/38/b0384c172d56999dacbed428412379b695073171.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/5a/fc/5afcf360747ae0a86d459fdb81f9cc1c29937be0.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/10/7c/107c7e7b236a0628c02ae698187752ab6a9fd764.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/99/03/99034eed8d74401b91cd5349fefee2cb50f5c8b1.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1207938002.html",
+        "stores": [
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Loose Fit Pointelle-knit polo shirt",
+        "price": "Rs.2999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/21/84/2184b5c45c91c846fc6ec42d4aac6e0c247833b3.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5c/b6/5cb6706997134ca3d1490643276cb5a10cf73966.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2c/b1/2cb18a30f1d3a15cc9163cc529349fb9fa9fd45d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c7/b1/c7b140d40007f9bb29b5e9f34cc0b5cb5d0a4b83.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a2/11/a211bc7f37cc6851c4e2525ad7dbdf06a01877e4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f4/f8/f4f8929bf033e360c36a8a31dcd157b46d0c5eb0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/31/ff/31ff068ddc8a68779c33a12f51d1366701b6368d.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1209094002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/70/81/7081e14839e20c1bdcbb7f2fbe7b13af8ad61be4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/42/a1/42a1ca03bac0a2724c8abe1c0e9ad772d5582813.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ca/6b/ca6be54e3ed688712264f988c43311d4996256e5.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/3d/7f/3d7f1fd165c65a446e6fb1568c2a30d84dade552.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b6/1b/b61bd891fc01c430a6800e144665c8881a3b16ec.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/62/cc/62cc08723e4c780bf4c69a7e0f1cd0b3e95bf58b.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1247834003.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.799.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ba/b7/bab7081a4f5c85b98244030914e2d7b8a52f614b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/dd/56/dd56957dbb6b8836e8ae2c20920e6e264534e5ce.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/af/ff/afff812d8bc02cca1e28b17186de706ce76f683e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9e/ba/9eba5c73db245433c5b85ca8658ffc8c0cb32e7c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e6/dd/e6dd64d616c8473c5915db34e8757c703c657670.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/79/78/7978de2126c07280431126c7f1950b54c2adbb94.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d8/76/d8765d8f6d9c5103b1abab2b51a7b407f87edc64.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0956343074.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Cotton polo shirt",
+        "price": "Rs.2699.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d9/90/d99063e22921db13350fcd65d903bd8395b5c68e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/db/28/db2889557d062665e6f6198725c7bc5b73691a23.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1254557001.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/28/8e/288ef47c6ad805d8ac3685d7113a1e8c035c0019.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ad/f1/adf194f8385b37ec81f94e764b392d22791ce674.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/47/f8/47f851ee32fd5f4c03f397cbe3ee1c69086aa1b0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/67/c4/67c4ebc2530cc888f4c0c5fdf5049f8ec7dd4a09.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/28/ba/28bab635d8555b89064fdbca190354c80cb55649.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/dc/ee/dcee79552c9fc0cc430a0b77600f5f20fa1b6ce7.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1247834002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Regular Fit Piqu\u00e9 polo shirt",
+        "price": "Rs.999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/44/bb/44bb688b57e208b3dbbeab6fb1fd09758612fd25.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b7/b2/b7b232945ba179bffff63f4332a42d792cad5564.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9f/3f/9f3f60eeda7ae60f9fa1e48ee3a1c3c345c6a27e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ce/a7/cea77628587226a0511f61a04edf321e4b060553.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8a/4a/8a4ae254bfbada34fae6f3871815285b2cd0864a.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1209183003.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.799.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5a/df/5adfbef3367f5a9275fdc6168e36ae317f190ccd.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8d/98/8d983190aa3ddb89a587f1b4ef2d7d5d160a108d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5b/a9/5ba9eea381f3eb8cded88a78cbef4cd350d7debb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/29/86/298615849df5f9a8c2c9312f91ce694066a3f696.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5f/17/5f1769c3e624851f046c6e485ae26a24fdce4935.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0956343002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Fine-knit polo shirt",
+        "price": "Rs.1999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/46/21/462109be703f69f588ee69cdbee3f3b127860602.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5d/97/5d97ea90b566e76fb28195c0eef03b42047b45ca.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1182412001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Polos",
+        "name": "Slim Fit Polo shirt",
+        "price": "Rs.799.00, +5",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/86/2a/862ad773431fa73d6e187a1adefc9e641f4e571d.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/3f/17/3f171453cce54443006b4373019926b729193c43.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0956343063.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    }
+]

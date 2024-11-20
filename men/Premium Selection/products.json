@@ -1,0 +1,1691 @@
+[
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Pima cotton T-shirt",
+        "price": "Rs.1299.00, +11",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9a/2b/9a2be72e0c0c6f1d0e626f63cd607a45e3483d59.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/35/f7/35f73f439f9414faa189d4de0e6506ad21ac7a36.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/15/5c/155c322e382790d814c0feb42bb0d864a1333bd1.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2a/c3/2ac39cdb9a9719e12cfb2231bfb72524a9018f77.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/65/05/6505eebcabec8ee1e89813a6f81746b8899e25c2.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/40/e3/40e30393389ee1c18b476bd0151793e48611c859.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1101074001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 12000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Pima cotton T-shirt",
+        "price": "Rs.1299.00, +11",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/03/fd/03fdd10c889c4b29d100342996debc1a45e327b2.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2b/89/2b89e75e6fbff66a7588c72023d907352d18ed93.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/74/1b/741b9789914f8972418515d3238d6d99732bb4d2.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/06/23/06238a2c051b7415ad9c65b2aaf9c1c632354124.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/27/08/27087f00f2094ff6d5822de768dbd4c59a806926.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/51/be/51be236cd8d895f4b917799da8f097cb1f8f8540.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1101074002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Polarised sunglasses",
+        "price": "H&M Premium Selection, Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/1a/7f/1a7f0b832ae24c55eca5cece01f67b97cb4f2bd0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/1b/aa/1baadfe2f5dffdb1e2ff7068cbad8d0b5b33a673.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1226046006.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Pima cotton T-shirt",
+        "price": "Rs.1299.00, +11",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f9/b1/f9b186cb286ef3bdc8450e3c2036163720ca7fd8.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d3/3d/d33d922732780573f4ea4a3026b815636bbdc1f7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/53/92/5392e0784f8a0571ffd02c5f9a85a9691fd9bcdb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/92/86/9286b8200c3922404817342b554657408f5bc0cb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/7e/06/7e06a07081a603736d2570bba1a34340fbaa229f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b2/fd/b2fd19b905c8442d2baef48c15e1eb8be42b4e0f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/52/07/5207e27eea550e1c042adfb8b1bf9f5fdec22058.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1101074033.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Cotton shirt",
+        "price": "H&M Premium Selection, Rs.2699.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2b/54/2b54ad0bd057fcc3de70494993f92cb2494c6186.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c7/39/c7394b9af64f73ada7f4bf6b9ea3202bc948763d.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1135006001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Polarised sunglasses",
+        "price": "H&M Premium Selection, Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/da/c6/dac615ae2773138122e8c98b5a46a8d5925eae9d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c0/1c/c01cef4a0a45b93dc6c88b48cc8d59e158cf5c63.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1232105004.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Pima cotton T-shirt",
+        "price": "Rs.1299.00, +11",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/f9/b1/f9b186cb286ef3bdc8450e3c2036163720ca7fd8.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/d3/3d/d33d922732780573f4ea4a3026b815636bbdc1f7.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/53/92/5392e0784f8a0571ffd02c5f9a85a9691fd9bcdb.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/92/86/9286b8200c3922404817342b554657408f5bc0cb.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/7e/06/7e06a07081a603736d2570bba1a34340fbaa229f.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/b2/fd/b2fd19b905c8442d2baef48c15e1eb8be42b4e0f.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/52/07/5207e27eea550e1c042adfb8b1bf9f5fdec22058.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1101074033.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Leather belt",
+        "price": "H&M Premium Selection, Rs.1799.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/6f/3c/6f3cda70c97d6e727eaf7bccf6416076b2f14487.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/24/1e/241eafc147adbbf8652a0981d28402533bfaf8bf.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1223345001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Relaxed Fit Tailored linen shorts",
+        "price": "H&M Premium Selection, Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2c/21/2c21f46d0bdc2da599ae5726e16f9c3f6b85a045.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/cf/6d/cf6deb9d48b1104d09f0bce67f36354178b9220b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8e/70/8e70a4a96a250375f96403ed88d770472401d375.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/15/ee/15ee844f11179591131a41d76632fd20673d6106.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e7/f4/e7f49951d492ae36740c00cad6650ce0a9725a7b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bf/0e/bf0e3006dc1c4301994d59b5325ba2a9be0254e7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bc/fb/bcfbd11add8cdf15979de2283aca23a84b229977.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1239527003.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "023",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Premium cotton shirt",
+        "price": "Rs.2299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9a/3c/9a3c955ecf7141384cee7c971a4a82193306c840.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/70/6f/706f06be504aafd35393e3ed4c29042c0ba0fb23.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0395127048.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Relaxed Fit Tailored linen shorts",
+        "price": "H&M Premium Selection, Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/47/12/4712982d58f5b936b26e8dc5b608c8394958fedf.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d8/3b/d83b2ecab1011feb2c3c54e8a6151dfd4e642b04.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/09/b7/09b74c11414bb3fbef40570abba26305e9025b8f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c9/f1/c9f1b85e92d29d18638495d7c8b1163b042d25e6.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9a/d0/9ad0b511d35e9c01c0d399d074809918b0d3e847.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f6/f2/f6f2a9752fe5d109cad2d06ceabab1c8da9eb9d0.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1239527001.html",
+        "stores": [
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "025",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Leather belt",
+        "price": "H&M Premium Selection, Rs.1799.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/60/7d/607de975250b32495059e9bad463bdb7f3abab35.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/ac/70/ac70c9d9d3e88fd8189f0d10a2206128bc9af553.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/20/ec/20ec89c6cedce711ef096ad99742d66cc2af4fc4.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1001829001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "008",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "008",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Skinny Fit Suit trousers",
+        "price": "H&M Premium Selection, Rs.2699.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/16/aa/16aa0516dca056c2abd17a08b2a608eb68904b93.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/11/de/11de560ada1b476150857c074cc08a34289c1420.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0714032043.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "018",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "023",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Leather belt",
+        "price": "H&M Premium Selection, Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/20/01/20011ccc8b0d8ef1fa6c597c960de06508c81b50.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/27/ea/27eae2fbc5b73516c4cd8eae924cb4b0ebde8b56.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1002322002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Premium cotton shirt",
+        "price": "Rs.2299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/91/7f/917fb1ad2e62d88cb87f7db8b327d3702d84cfc9.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b5/09/b509cce9bf6af6caa9c0efb9a9ca9740b73a6194.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0395127052.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Leather belt",
+        "price": "H&M Premium Selection, Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/6e/e2/6ee2bf574e7b87a822ed8438667bc2b0886c5ee5.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/dc/0e/dc0ec534cd171918e2180b986b5810dc917cdbec.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1002293001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "005",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Relaxed Fit Linen resort shirt",
+        "price": "Rs.2299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/77/3f/773f1e2794f234d4ee8d8b62673e0c6f72eb7abc.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/cb/b3/cbb3db55609900b529f06f47fc495c7126f53e6f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/3b/66/3b666825cd8c4bdf23f76e3ff9a80c9fe56f73f0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ab/78/ab789d4438bee64e1c25bb0c03301d83ef7397fb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c8/39/c8390fb6bfe12da6052ffb97401c1446ce39af4d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/91/30/91302030be1964be0410c3c4be121afc2c8af92f.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1165059010.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Leather belt",
+        "price": "H&M Premium Selection, Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e0/27/e0270fab02866ecb311e4f91837bde63c870544c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/6b/a9/6ba9fa0cfd9e17744178268566109db889ddd238.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1002288001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "004",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "004",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "005",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Regular Fit Linen shirt",
+        "price": "H&M Premium Selection, Rs.2999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f3/08/f308d746b05114bad8d3af7fd6359d6889db8917.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/99/a6/99a661e876066bfa2cb12586a71b128c9f91a335.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f7/25/f725b1c521e61ea0e2ffd7e60a2833ecb5dd6993.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4c/ff/4cff4b15e3ee8ae1bfe3eb20d220aa245e68e99d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/6b/25/6b25deda3911e0c13c64ac47b17caff7c273e346.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f0/e9/f0e92b572b168e329c6a9aa2e25d8e6d0ae17947.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/0d/c4/0dc4a161ef4eccadc7a45be5a1fa54b18188b37d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9d/d4/9dd45d6b7ffeff8d4b06681e565a5b10b26c6cb9.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1226634002.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Suede belt",
+        "price": "H&M Premium Selection, Rs.2299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d7/cb/d7cb0db474b57c546e99423e5732e73bef36f474.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4e/d2/4ed27194986c7361ae03d2e0409585155973b758.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e9/88/e9885abbd39ab13b351e1b24bff6df167ee40fc6.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1215799001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "008",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "008",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "008",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "008",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Cotton shirt",
+        "price": "H&M Premium Selection, Rs.2699.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4e/08/4e082157e010d31b6fd37c07186d7884c40999aa.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f5/d1/f5d10c3395f1dbcb50b4cc9c79dccd4b7181c0f1.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5f/7b/5f7b274dcb850bee2c12b732b225b7a20f42d22f.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1135006002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Leather belt",
+        "price": "H&M Premium Selection, Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e3/c4/e3c469d0f381578a6c1a75d3a78c59a433e30c91.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/86/e1/86e1d44381cb0ea676c3a25b1f147683b5edf7dd.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1002322001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Premium cotton shirt",
+        "price": "Rs.2299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/11/d5/11d541852878a2d16dd44c607f25686ad6eb9c54.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/72/b4/72b428b150ce0470e01f3922e7b9377d9fd5f8b0.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0395127043.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Regular Fit Linen bomber jacket",
+        "price": "H&M Premium Selection, Rs.4999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e6/2c/e62c4435328c3ff84d3ac678d093422ebaba4dcb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/88/c5/88c51df23f6ef7493b0796ceb8df526f59486f7d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b5/cd/b5cd7726c5f441345fd30a1f56aa618dba789144.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/42/ca/42ca4f3add34dfa58635499aded3bba8b5113899.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f1/e7/f1e7fef0065ea5ed0d8f79dbb72d4e77f2726299.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/77/2a/772a51e53aa4f5a866d42543850ef8ed60272d11.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1206661001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Regular Fit Linen shorts",
+        "price": "H&M Premium Selection, Rs.2699.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9a/ed/9aed28a872df7c198662b77f849536b8f8588f94.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5d/14/5d14d2d21d0233d661bd518060a7855024e227e7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2a/e6/2ae6893f21bc90547f34611b3f51c9e18d182210.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/96/44/964416601931f2eb4479fdad6ef603d012d745f7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a7/f3/a7f35c05f3ced2ebe03460a84bf515459f1f3c8f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4f/df/4fdf39c0288df2a2d143daf5900e49710c09d17a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2b/22/2b226d3f139577c68d80d49e35cddfd221b0589c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bf/97/bf97d7a90259e8c2575548897094203d99d85bae.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1217833001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Relaxed Fit Linen resort shirt",
+        "price": "Rs.2299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e0/cb/e0cb169c4410f35b48fc696ed6a70f5b2dc1bb94.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/69/4f/694f8ebe5ce6d7a95b201138153094c18b557b81.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/53/90/5390635c088c4cf375888fc0e5ea13d0f2b15c09.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bd/28/bd280cdbcc2c79246b0b3b6259782433961401ea.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e8/01/e8019f04dbfe405c82bf54dc202dcec3bbb2e099.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e6/13/e613ec2ba11a43d43f688954800ea8bfe8165116.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1165059006.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Regular Fit Linen shorts",
+        "price": "H&M Premium Selection, Rs.2699.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/37/e2/37e2c75a2aea144b0b338b638375467935792162.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b9/00/b90007fed4403c8ef581d39dc3eedde4feda1a17.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2e/b6/2eb6ae8a75c7d590c9e40bd1329be3ff3520be04.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2f/d1/2fd194a289253756ec668cf49ac161a686d3b969.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e0/25/e025cf12c49d3a8d5995fc2730bb44298de8593a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/48/3b/483b6b9b0b130643f4b13a27b3f159527497643f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/00/97/0097b11b441712dbe45c8f427ccd36dcedd5b65c.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1217833005.html",
+        "stores": [
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Leather belt",
+        "price": "H&M Premium Selection, Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e9/c0/e9c08a5dad91ad1abe943e93297a05de05563cdf.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9c/74/9c74fd452b6b22da81d0b8cfd31efd5ffa772d85.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a8/01/a8016fba9352a4586e7f97a223f58a0c4272fd09.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1002288002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "008",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Linen shirt",
+        "price": "H&M Premium Selection, Rs.2999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b2/33/b23334763b2722cab082dd5730d48366c823afb5.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/74/1f/741f6f3f0c79317b08b4c6bed65bb528065806ca.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/67/6c/676c30b14c1f325f111ddbe2cc4ecbe8ebd33a9b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b2/ec/b2ec72bf517671f5592cef481aa875cddc134cac.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/40/aa/40aa9690f18ca8f35132842f0746b4237efb9047.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e9/b9/e9b96c61fdc7b6aa5f13001dbabc6c5f797466ec.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1212180001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Belt",
+        "price": "H&M Premium Selection, Rs.1299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b4/80/b4800d4d79a2fac37b007ad5b79700fb3d6b2574.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5f/40/5f409b63046e083dad3415a3cddb2be9f5b2eb59.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/15/7c/157c5fcc398ba932a11d3e4da47c30da210c5991.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1002283001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "008",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Slim Fit Pima cotton T-shirt",
+        "price": "Rs.1299.00, +11",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/74/db/74db0dddb89cfd9b3a7c1d8c398babb44d9c4682.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5d/7a/5d7a23a141f55783d15a1886b6f3142bee686dd4.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1101074015.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Premium Selection",
+        "name": "Skinny Fit Suit trousers",
+        "price": "H&M Premium Selection, Rs.2699.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/06/d2/06d279612561d45ae3955a49ba7963e93d4fd9cc.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/30/f6/30f6c2484e78b9e4d823fe5a66edaaaa215e7ad9.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/76/e8/76e8d4597ae9889112f27433f4c752627500a3a3.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f9/e6/f9e6e23247193e757d8436bee873764f18a0b315.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/66/cb/66cb5daec7e6516f55dceef97a1e8dc5f755b0a4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a4/a1/a4a159cdda0c6f19e572d2a521faf1c48b781a90.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0714032038.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "018",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "022",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "018",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "020",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "021",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "022",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "023",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    }
+]

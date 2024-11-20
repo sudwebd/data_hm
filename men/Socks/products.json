@@ -1,0 +1,2141 @@
+[
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.249.00, +6",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/3a/8d/3a8da4c647e386a6eb0ecaccd916bd555b057b11.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/e8/db/e8dbc4be90eab4151ab14b5ecbfee7359d6cc0fb.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1170159008.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.249.00, +6",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/9b/31/9b31837854232ed6054ab2ac6e7a99c9dd387041.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/64/70/647047707953d4d833b40c9dccdda5084a6e5e2c.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1170159032.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "7-pack trainer socks",
+        "price": "7 pcs | Rs.114.14 / pc, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ee/73/ee7398fd80164ac841605a2200c86c6d60837c18.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/25/65/2565c552fcd49106758fd9c326bc0fd8c001ca32.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b7/8c/b78ca46edfbc854015dec7c6874d7c9f600d0676.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1145712010.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 13000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 12000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack sports socks in DryMove\u2122",
+        "price": "Rs.1299.00, 5 pcs | Rs.259.80 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/86/19/8619de24ab1603066ad107753606b95583fc7fa7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/1d/f8/1df818ec94dd0397aec57d0e6004cf602f765f34.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/7d/93/7d93d51b99c63f2eee912133536f99d47c691988.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1228219001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Sports socks in DryMove\u2122",
+        "price": "Rs.999.00, 5 pcs | Rs.199.80 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4d/0d/4d0d73da7e2a2b0ab122fe0c7efa68dc6acf0518.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/de/91/de912a8f13123abe82955031177909eff39e273c.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1123563001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "7-pack trainer socks",
+        "price": "7 pcs | Rs.114.14 / pc, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4d/ec/4decb5919dcb0bad161195def91ae9b2a2ae2276.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d0/e4/d0e453182d172b198234c762d0d6dc7f0ae8817e.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1145712002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 15000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 11000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 17000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack COOLMAX\u00ae socks",
+        "price": "Rs.1299.00, 5 pcs | Rs.259.80 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ae/8a/ae8ac08576abec87ae7b0bf8ba1a1132d57dcb0e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5e/e3/5ee3ab4183bc0ab2c34598bde4b4074aa85c8377.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/41/e2/41e27a8663255807676e0e996dbb32d64ea50f6e.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0871826002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 11000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 11000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 11000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack socks",
+        "price": "5 pcs | Rs.259.80 / pc, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b2/d4/b2d4b1116c7ec8a1e04ed63024ee65fed2207345.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/85/a3/85a3e3ea9f2faf56b922289ecb22f93336f13888.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a6/e5/a6e59caff714d4aa0948c832c1ff0b6dc2aa0158.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f2/e0/f2e00e42c857ebaa63e51bf2ce3dc659a39b873c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/58/95/5895e4e47dfc898278f9e1fd3331cbb339d8ae33.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0647207035.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 13000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 19000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 13000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 16000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.249.00, +6",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/12/de/12de13c3996de882a694d29005f09e0777e58944.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/2f/61/2f6169dfb5f46dcd46493a34533902ef38746d49.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1170159042.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/db/92/db92cc7b8893c1d5b36060a697daf747ef810086.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/7b/b8/7bb8298c1190720427257cfd80ae09da6d2acc3e.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1237768002.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Bamboo-blend socks",
+        "price": "Rs.299.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/19/c9/19c9a211622e7c115c306b09cd6c8850830affc2.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b9/65/b965c3ce6f2db1a47f4c9aeb651f8be33a1f6cac.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248899003.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "7-pack trainer socks",
+        "price": "7 pcs | Rs.114.14 / pc, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/fc/f2/fcf2e637cdb0a30317c4c5ae298dc60b4e95602f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9e/a8/9ea8260839344d403e112d80433ac1a252eff7e4.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1145712001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 15000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 39000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 17000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 23000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 14000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 15000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack socks",
+        "price": "5 pcs | Rs.199.80 / pc, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/81/37/81376c9bf5526645536affe9f5d008c3c8e24d9e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b2/a8/b2a808d65cc5c4faf7bd3c532e4e9b6bf960a6e7.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1188057001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 11000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 11000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack socks",
+        "price": "5 pcs | Rs.159.80 / pc, +2",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/3b/25/3b257a7994fedecaf3fba6847cb75182015df4b4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/18/3d/183dbcd5a1b7aede633fa71cc831adc6b5d73166.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ea/55/ea552e95c1128cd3f225b31fdf7135160b09faf4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ae/a0/aea0bcdbc68e7b225ec09655fb79153b27ee1767.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1007334001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 18000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 16000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.249.00, +6",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f2/f7/f2f73c4c2140126df90cb75fccb405208ef96795.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f4/61/f4616cc2fb60d9ba70d1ee92db5f9c9d48b292c0.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1170159040.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.249.00, +6",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/78/1b/781b48666ae0820523e7cdb5b98cb27a5f200ca1.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/00/09/00090bebd87af8194fa4787510b99bebd477b22e.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1170159041.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.249.00, +6",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a9/5e/a95ee0e79fbbbf0bac828ab34a75761cab189c63.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d5/e8/d5e89e02ffef08cb89802c003e711b173d189bc9.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1170159035.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 11000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.249.00, +6",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/63/5f/635f6fb04f95db2cc7fe832d71770eeeb0a546d0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a5/cc/a5cc26503967119540f250180ecf5b0291b1e7fb.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1170159037.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.249.00, +6",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c2/f6/c2f625339e6ed5fa6f4cd53b2e09dfcd8dbd747a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b6/62/b662ed0044a78223adb05a4417cb028c9ed19076.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1170159038.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.299.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/ed/46/ed46992461c45d946621d455a5538430e8cfcdf7.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/ec/ea/ecea71b024a368610602ef8507ac552b136f4ef7.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1024606002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 12000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack socks",
+        "price": "5 pcs | Rs.199.80 / pc, +1",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/70/2d/702d63fffcb1a5e647b3420173ae3a820f5921d9.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/be/61/be61549473ea7648cb32a9d1fc7e8947e8a776c8.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1188057002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Bamboo-blend socks",
+        "price": "Rs.299.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5f/fe/5ffe8d9d8a0befa350d0eb231766c261abd7583f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/fc/6b/fc6b5291cb96d16d56d4b60264f11cefde390b67.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248899004.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Bamboo-blend socks",
+        "price": "Rs.299.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e2/07/e207ee3c35277f0bd9c4bb2e8fdf4cfc6fa6e8e0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/70/cd/70cda7b2918e74dfc56edbfbcf5ce02de6649898.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248899006.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Bamboo-blend socks",
+        "price": "Rs.299.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/29/25/29250512d45af2e3c4ab113bcaf84cd6d8a2c216.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8b/ca/8bcad51a4395d6b37947601f15c8dd62afc025ce.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248899011.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack socks",
+        "price": "5 pcs | Rs.259.80 / pc, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/59/a2/59a274f2ea1204174a827a0a6b1a06d07d227293.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ee/66/ee66ffa69494538316131b81243347836eb6ec5b.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0647207059.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack socks",
+        "price": "5 pcs | Rs.159.80 / pc, +2",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/97/6b/976ba8c0b6e2a92849a98ca1a52525700839d0ac.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ad/f5/adf5aadb0b722508174a79734c5088a2b1dbdc3d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bb/a3/bba32f4a00b9292e61ed4a41663692a394c6d7e9.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1007334043.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Bamboo-blend socks",
+        "price": "Rs.299.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f3/1f/f31fabb31b736a60892dcabf10e43cb3c41747c3.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/be/69/be69c6022855fee4f8580d9de807a02ce55260c6.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248899001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Bamboo-blend socks",
+        "price": "Rs.299.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bc/26/bc26f77cca504613d7a7f7224e5c272c8d428e6d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/79/c2/79c292f77e70459bc8bb16d995beda9262116406.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248899002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Bamboo-blend socks",
+        "price": "Rs.299.00, +5",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/0c/b6/0cb6e1845efaafa0b00867c14be94fa1de6b6e6b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/6b/02/6b021008c666297c68f934f444c4f09a6e1d1a92.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248899010.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 10000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.299.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/16/ae/16aeeec76b6f12232ad3089270e688f5df9426fd.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9e/6e/9e6e5539422430ed4333cd37cad83ee7be2774d6.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1237768004.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "7-pack trainer socks",
+        "price": "Rs.999.00, 7 pcs | Rs.142.71 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/be/30/be30f7d31fd2fb79bf7615440cb96e0c78bd2426.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b9/52/b952e32266cb905218025f49fa757894f209561c.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1225769001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack COOLMAX\u00ae socks",
+        "price": "Rs.1299.00, 5 pcs | Rs.259.80 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a6/7a/a67aed695132b9ff0d6d16eb5b4fb263b59d645d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/1f/4e/1f4ed7e60004e4854517ec491c9c44c7356b6ae4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/92/8f/928fa58b308e81f0fcf68df662ea996fb62e89c7.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0871826015.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "7-pack trainer socks",
+        "price": "7 pcs | Rs.114.14 / pc, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8d/c8/8dc87dc4ed10dacf4be7fd798554e477ceb4a3a5.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f8/18/f818e8d06b9dcde0257dbf0fe18154f9dc25f4ce.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8a/0a/8a0a6ce0f4c619dd1e332f99f2e6cac56338add4.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1145712005.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 12000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack sports socks in DryMove\u2122",
+        "price": "Rs.1299.00, 5 pcs | Rs.259.80 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/20/29/20291e10076fe4bdc85a19d184af6a6c0655b183.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a2/d8/a2d8e2cf40c43dc8768157c7ecdccb383a08f5aa.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c9/91/c991f14fad5674c28d2b592b440e43a6c0ad953d.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1123565002.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Socks",
+        "price": "Rs.299.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ee/6e/ee6edecfc3519c3cfb1fe245923331e4a9339253.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/0c/98/0c984fa03ad542bef6c2ee354403d66c44eef08e.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1024606001.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack socks",
+        "price": "5 pcs | Rs.159.80 / pc, +2",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/1e/1b/1e1b2ccfb47d6bfacf4fad82455e5c64fd0d5887.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d2/55/d2559000cde1d37458fe159533bf917618d67b81.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1007334036.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 11000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Bamboo-blend socks",
+        "price": "Rs.299.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/5e/52/5e52300b99830df047218b3c55478eab724a89e6.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/4d/0c/4d0c584483191b6edd2081e787b08338938b3660.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1230234004.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Bamboo-blend socks",
+        "price": "Rs.299.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/b8/48/b8482843cc215fb7a8cd08ede6b3db63295f206f.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/99/71/9971863a6130ea1e64e43786a1f2d0d2608dcc2c.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1230234002.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "5-pack socks",
+        "price": "Rs.999.00, 5 pcs | Rs.199.80 / pc",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/52/a7/52a763f207da4e305956e372b9391e7faf3f09c2.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/8c/b5/8cb59fb20f89e2be4f3a356293c753b41c46410e.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/77/e7/77e7915cc6ecf818eb48b5bd8677e7cf5eee2645.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1007407010.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "003",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Socks",
+        "name": "Motif-detail socks",
+        "price": "Rs.499.00, +3",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/63/d2/63d2f7d024920c815c17a9ce4e2badf96338063e.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/7d/b3/7db39f6d8560b4d4cfc19755f5fa5a56bb5e1a7e.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1072353091.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "002",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    }
+]

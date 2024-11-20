@@ -1,0 +1,680 @@
+[
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Jersey pyjamas",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/c0/6a/c06a72e43317371fddfb34875d1a1015f21b9681.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/13/ea/13eabf6155b0ff94cf6c6ec713a2217d1b801dd6.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/34/f2/34f2a9f2a5f12bd4d57385b2fcb2afbd8a4abdda.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/11/82/1182fddabea94d80c36715f2f60fd9040a114386.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/6d/5c/6d5c6eb7bba084582ce47e3a6ed73b3a96cdb99b.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/0e/b8/0eb89bda6b6460e4da8a9dce82779521b431940e.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/20/40/2040112d5ce88e4d352db604feb3e41ba7b06673.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1243868001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "014",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Regular Fit Piqu\u00e9 shorts",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/da/4b/da4bfbe8c69b0bb1d0af9f1e0b9a559a61fc18fb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c8/92/c8925279622ffd6311ca8a8d9843ccadd99edac9.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8f/0c/8f0c048ce6d718123418749064cff4048cbf20c1.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/0a/0a/0a0a809e4de2c483002d71a532a8c5a8ff54b979.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/75/f3/75f3bd1d02fdf828ed346ffa0d94c9194866a0ae.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1230461002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Pyjama T-shirt and shorts",
+        "price": "Rs.1799.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/43/5e/435e063f8c343daf94c923e568c393a7ffbcf51f.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a8/83/a8838dabd4f381f9dfb886f6236143f888c9fdca.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/6f/81/6f812f40335d693b11b3cdec0fdd9cc9ce50775c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/46/60/46601958d4349002cb0b36ba65439523acf484ef.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8b/fc/8bfc8e037045dc7e7566b8910f7ddb911148efe7.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/0c/17/0c17affa33348fa90993a80233d2a87f2073f5b6.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ac/b3/acb33186ef311d046aac2fe308cf4952ec952f77.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1230610002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Jersey pyjamas",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/30/b5/30b5a032b2debfa846762103b89df0d0ab778770.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d1/c0/d1c03448fc8c5557d2ad66a90261480c37939691.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b4/d0/b4d0f9d2077be738a2fcba8737d42e8be8c3f2e5.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8b/da/8bda7917b26a0ed403513189950bcdc4eccfed0a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/19/e4/19e411e7dc3df501c9fd9a9e70db57475af7c27c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/68/e1/68e16f9b15bc5b3bbd2ad2372e89b89dbc736f0a.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1251690001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Pyjamas",
+        "price": "Rs.2699.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/bc/5e/bc5ebf341588f86d681f0c1411dc66bf19e66f5a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/34/88/3488bbd1cab3c2d723a95eef3c5e8cdff4c1f935.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/18/6e/186ec60ed769374d4c9de5ef7aa8794df418e89e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e7/f5/e7f59d5995e5a793ea49d39230b3288bcfdf1e7a.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/36/80/3680a0ecf9421c5045c977a0d65b8ee1615c9c56.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/fd/c4/fdc4d084ee3c314ecd71de73071d6c468a4c4c43.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248098001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Jersey pyjamas",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b0/07/b00739cc96659399877f5a165b773de86965a866.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5e/20/5e20cc55f7e8141b087f9115e3c454f0312a8b47.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f3/85/f3859652e8b22531484990ca34a16e7020f0012d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5c/7f/5c7fc24cedcbfbb0112c6236134d6f1f6f950012.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5d/22/5d220d4f155762825f25a1ffa1b414e6397acc67.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9e/b7/9eb785e4887ce19acd5086c472123292f06c91eb.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d1/f9/d1f99047603b191c3714d30bb0b3a0d15af280e1.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1251690002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 3000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Pyjama T-shirt and shorts",
+        "price": "Rs.2999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5a/f7/5af7587836d96e8f0cf808d239370c04da648409.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d8/71/d8716bd09b87630a55c34d3bdda1116a324a1f44.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/30/cb/30cb35bb6743b7ebcf533509bbafa55cc6c88ad9.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5b/11/5b118b8522ce2eb1d15747a64f8b45758e4b3b4e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/06/02/0602fdcfe835654d3f316aa6abbc312fef77b10b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/56/b0/56b05f0b0eb0b956f87a9c9dc7f3b5e89f3bd0d3.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1214438002.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Regular Fit pyjama bottoms",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ac/25/ac25576caade914a9c8fa406e8387e8ed8fba9c0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/48/0d/480d6bc20b71729bd966c26835c1f916997896bd.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/97/96/97965682bc07eae4507f0bcbef6eed1af38d6f40.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/94/65/9465553dd2fd04e937c3eaa7547d721cfb50f945.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b4/c9/b4c9497258a05aca8aef8e8b737659e73755b706.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0523936091.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Regular Fit pyjama bottoms",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/ac/25/ac25576caade914a9c8fa406e8387e8ed8fba9c0.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/48/0d/480d6bc20b71729bd966c26835c1f916997896bd.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/97/96/97965682bc07eae4507f0bcbef6eed1af38d6f40.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/94/65/9465553dd2fd04e937c3eaa7547d721cfb50f945.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/b4/c9/b4c9497258a05aca8aef8e8b737659e73755b706.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0523936091.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Regular Fit pyjama bottoms",
+        "price": "Rs.1499.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8d/2d/8d2dbd688a2f23353566593d67f028795b08df20.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ff/fb/fffba14def83ab9cfd79d3937057e6aeedae913c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/01/28/0128e468a085370af26d50ab4e4ad5ea8911cc35.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/a4/b6/a4b620626394dcf46d54b35f72a29bc5afbcbc49.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f9/c1/f9c1b9ebb10830a5827483c70daf50566e1a86ba.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.0523936092.html",
+        "stores": [
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Pyjama T-shirt and shorts",
+        "price": "Rs.1799.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9c/b2/9cb207997b47bb2d25a8b30bcea6642cf259bfe4.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/7b/2f/7b2f59469d05096fbd75b364744600fa6e6df57c.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ea/25/ea25d394855f00e687882f6d123ebd7d36a43ade.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b5/dd/b5dd71c26837c36341a6401d8d29ed50a78306a0.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/31/4d/314d3acdd7c344dc6fce14d38649a1dacf8cb635.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/48/c8/48c87a6d26a8fa2f333aebdb6737196a9844c073.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/9f/a6/9fa67f1f0f670864e0c4b9813a86c8f5b88de1b4.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1230610001.html",
+        "stores": [
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "013",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Relaxed Fit Poplin trousers",
+        "price": "Rs.1499.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/4b/2a/4b2a2fee11a5f623a06ab5a30718572313889288.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5b/8b/5b8b664e619b5bcb010057423050ddc218169d31.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/61/55/61550af0430ce83a16573b14aba881a19c7ef2b9.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/65/50/655049413b9dc56cc06f1f9bc6738f7a33b06c9d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/5a/b5/5ab5a9a7370187ed102bd6729389fe809bc3c0fd.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248095002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Relaxed Fit Poplin trousers",
+        "price": "Rs.1499.00, +1",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/52/c0/52c004fa682d8312dcdcc8ee61de012fb81dd565.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/38/ca/38ca1021f4bb33bcb78797032f4ee61edc37f370.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/7c/85/7c856570b56479de95e6341c641af2d1544a8505.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/92/50/92500e866bcb65a361a8cdf81b3115f1318aa37b.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/cf/5f/cf5f5e55f20d93497e2ede4c24128c1436092102.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1248095001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    },
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "010",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Relaxed Fit Pyjamas",
+        "price": "Rs.2999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/c4/8a/c48afcab44bfe836e4dd9720c8ac4c4bc1ebed53.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8e/f2/8ef2215043233bd7e46e26223daec498175d709e.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/af/5a/af5ac85c6ad8ca7cc67c092dc0e9821030d38bbc.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d4/3d/d43dfb438843d9b87cd1016bd0724f06cbc007a6.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/19/d9/19d914bbf13591a1241f6f522ca98ec28d64bc84.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/41/e9/41e9712707404036ab7bf969eaad1cb5107e9b31.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/65/f8/65f82a1eb847f419ce84a2f8e8ae6f7d3f9c3111.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1199785006.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "011",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 1000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Sleepwear & Loungewear",
+        "name": "Poplin pyjamas",
+        "price": "Rs.2999.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f4/26/f426d39138055b6e3c39189ffe87e0a7eab02317.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/e5/f9/e5f9538f430d301249448d0da2e443426130ffde.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/07/bd/07bd2fc0dd36fe065fb3197ba5f4a07a2958d564.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/1b/a2/1ba253b80370273539a0c739fa6d0633e04f0ae6.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b1/05/b1051bc549c2fe29b926c8ed59393ca39d8fe595.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/49/d8/49d8e120ff17533a39bd1ef4a621ca3a545e64ac.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/af/b3/afb3cbe5254c7f92b14dbe7d41fc4b626b275092.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1209443002.html",
+        "stores": [
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "012",
+                        "avaiQty": 2000,
+                        "traffLightInd": "A"
+                    }
+                ]
+            }
+        ]
+    }
+]

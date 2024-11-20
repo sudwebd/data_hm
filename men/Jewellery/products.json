@@ -1,0 +1,292 @@
+[
+    {
+        "subcategory": "Jewellery",
+        "name": "Necklace and bracelet",
+        "price": "Rs.799.00",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/31/7d/317dbec8bd9c3690417a8dd102260078bf210baf.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/72/10/72100a640cae4cda374cf73e3e7132abe22bbcf3.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1005394001.html",
+        "stores": [
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Jewellery",
+        "name": "2-pack necklaces",
+        "price": "Rs.799.00, 2 pcs | Rs.399.50 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d4/4d/d44d5b8a3775f5ad28972c6c22fd472099f81eed.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b8/5b/b85b1867cbd0934dee3119a0219e686adf29348e.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1243199002.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Jewellery",
+        "name": "2-pack necklaces",
+        "price": "Rs.799.00, 2 pcs | Rs.399.50 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/78/27/7827dad5b0e6b1461e725986dc942b76f7847b08.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/52/27/52270e3949375df7aadedbe68ac68f01810fd56c.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1243199001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 1000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Jewellery",
+        "name": "3-pack rings",
+        "price": "Rs.999.00, 3 pcs | Rs.333.00 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/ab/fb/abfbd449a0ef16f9f93d6cd8ee528740546fa120.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/d9/ef/d9ef7b46fbf765528e9a5f9bbd9fe69e8a36360b.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1243184001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "007",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "005",
+                        "avaiQty": 6000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "007",
+                        "avaiQty": 7000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 15000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Jewellery",
+        "name": "3-pack necklaces",
+        "price": "Rs.999.00, 3 pcs | Rs.333.00 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/8c/77/8c77796bc751e6983f7774d15b820495d2479814.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f3/66/f366fe01a086a281a3131a1b33a7ebafaa8971bf.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1243196001.html",
+        "stores": [
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Jewellery",
+        "name": "3-pack beaded bracelets",
+        "price": "Rs.799.00, 2 pcs | Rs.399.50 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/b4/d4/b4d4017a5945a6313726a503e90af9416b9f826d.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/f3/8b/f38b02df09bc99af8c0c803d3079ba7fd917e080.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1237594001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 4000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Mantri Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 9000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Vega City",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 5000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Jewellery",
+        "name": "3-pack necklaces",
+        "price": "Rs.799.00, 3 pcs | Rs.266.33 / pc",
+        "image_urls": [
+            "https://image.hm.com/assets/hm/2d/52/2d526f30a0bb0d895e12b30b4db4c193c7c1b0c1.jpg?imwidth=1536",
+            "https://image.hm.com/assets/hm/24/db/24db0c54c6060e3118635ce62bdaab1614eb5602.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1245605001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "001",
+                        "avaiQty": 2000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subcategory": "Jewellery",
+        "name": "5-pack rings",
+        "price": "Rs.799.00, 5 pcs | Rs.159.80 / pc",
+        "image_urls": [
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/72/ec/72ecaade4f65ac58a59066dc9f156173afca6320.jpg?imwidth=1536",
+            "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "https://image.hm.com/assets/hm/7b/53/7b5392fe6cc4c98e14e2d8306b9c01c3201badad.jpg?imwidth=1536"
+        ],
+        "product_link": "https://www2.hm.com/en_in/productpage.1255430001.html",
+        "stores": [
+            {
+                "name": "1MG Mall",
+                "sizes": [
+                    {
+                        "sizeCode": "005",
+                        "avaiQty": 8000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "007",
+                        "avaiQty": 15000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 16000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            },
+            {
+                "name": "Prestige Falcon city",
+                "sizes": [
+                    {
+                        "sizeCode": "005",
+                        "avaiQty": 11000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "007",
+                        "avaiQty": 19000,
+                        "traffLightInd": "G"
+                    },
+                    {
+                        "sizeCode": "009",
+                        "avaiQty": 20000,
+                        "traffLightInd": "G"
+                    }
+                ]
+            }
+        ]
+    }
+]
