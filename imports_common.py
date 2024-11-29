@@ -9,7 +9,7 @@ import atexit
 
 category_products_map = {}
 def exit_handler():
-    for (category, product) in category_products_map:
+    for category, product in category_products_map.items():
         # Save products to file
         output_file = os.path.join(category, "products.json")
         with open(output_file, "w", encoding="utf-8") as f:
