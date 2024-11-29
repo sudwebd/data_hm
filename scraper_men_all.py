@@ -56,7 +56,7 @@ def get_category_link(soup, folder):
         for category in category_elements:
             try:
                 category_name = category.select_one('a').text.strip()
-                if category_name == "View All" or category_name == "Premium Selection" or category_name == "Sale" or category_name == "H&M Edition" or category_name == "Merch & Graphics" or category_name == "Sports": 
+                if category_name == "View all" or category_name == "Premium Selection" or category_name == "Sale" or category_name == "H&M Edition" or category_name == "Merch & Graphics" or category_name == "Sports": 
                     continue                  
                 category_url = category.select_one('a').get('href')      
                 categories.append({
