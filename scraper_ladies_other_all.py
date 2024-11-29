@@ -5,6 +5,19 @@ import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 import time
+import atexit
+
+product_int = []
+subcategory_folder_int = ""
+def exit_handler():
+        # Save products to file
+    output_file = os.path.join(subcategory_folder_int, "products.json")
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(product_int, f, indent=4)
+
+    print(f"Saved {len(product_int)} products for subcategory {subcategory_folder_int}")
+
+atexit.register(exit_handler)
 
 # Thread-safe shared data storage
 scraped_data_lock = Lock()
@@ -43,9 +56,9 @@ def get_category_link(soup, folder):
         for category in category_elements:
             try:
                 category_name = category.select_one('a').text.strip()
-                category_url = category.select_one('a').get('href')
-                if category_name == "View All":
-                    continue
+                if category_name == "View All" or category_name == "Premium Selection" or category_name == "Sale" or category_name == "H&M Edition" or category_name == "Merch & Graphics" or category_name == "Sports": 
+                    continue                  
+                category_url = category.select_one('a').get('href')      
                 categories.append({
                     'name': category_name,
                     'url': category_url
@@ -77,6 +90,8 @@ def scrape_subcategories(categories, folder):
                 print(f"Error processing subcategory: {e}")
 
 def process_subcategory(category, folder):
+    global subcategory_folder_int
+    global product_int        
     """Process an individual subcategory."""
     category_url = BASE_URL + category["url"]
     try:
@@ -87,6 +102,7 @@ def process_subcategory(category, folder):
         # Extract products
         subcategory_name = category["name"]
         subcategory_folder = os.path.join(folder, subcategory_name)
+        subcategory_folder_int = subcategory_folder
         if not os.path.exists(subcategory_folder):
             os.makedirs(subcategory_folder)
 
@@ -110,6 +126,7 @@ def process_subcategory(category, folder):
                     product = process_product(item, subcategory_name)
                     if product:
                         products.append(product)
+                        product_int.append(product)
                 except Exception as e:
                     print(f"Error processing product: {e}")
 
@@ -121,7 +138,8 @@ def process_subcategory(category, folder):
             json.dump(products, f, indent=4)
 
         print(f"Saved {len(products)} products for subcategory {subcategory_name}")
-
+        product_int = []
+        subcategory_folder_int = ""
     except requests.RequestException as e:
         print(f"Error scraping subcategory {category['name']}: {e}")
 
@@ -209,18 +227,66 @@ def process_product(item, subcategory_name):
         if(len(stores)):        
             img_urls = [img.get('src') for img in first_div.select('ul > li img') if img]
             name = second_div.select_one('h2').text.strip()
-            prices = [price.text.strip().replace(',', '') for price in second_div.select('span')]
-            price = ', '.join(prices[-2:]) if prices else "N/A"
+            # prices = [price.text.strip().replace(',', '') for price in second_div.select('span')]
+            # price = ', '.join(prices[-2:]) if prices else "N/A"
+            # price = second_div.select('span:nth-of-type(1)').text.strip().replace(',', '')
+            current_price = ""
+            original_price = ""
+            for price_span in second_div.select('span'):
+                price = price_span.text.strip().replace(',', '')
+                if(price[:3] != "Rs."): break
+                if(current_price == ""): current_price = price
+                else: original_price = price
+            category_hierarichy = fetch_category_hierarchy(product_link)
             return {
                 "subcategory": subcategory_name,
                 "name": name,
-                "price": price,
+                "price": current_price,
                 "image_urls": img_urls,
                 "product_link": product_link,
-                "stores": stores  # Include store availability
+                "stores": stores,  # Include store availability
+                "category_hierarichy": category_hierarichy,
+                "original_price": original_price
             }
 
     return None
+
+def fetch_category_hierarchy(product_link):
+    """
+    Fetch the category hierarchy for the given product link.
+    """
+    try:
+        response = requests.get(product_link, headers=HEADERS)
+        response.raise_for_status()
+        product_soup = BeautifulSoup(response.content, 'html.parser')
+        # print("Fetching Hierarchy: Successfully fetched page content.")
+
+        levels = product_soup.select('nav > ol > li')
+        if not levels:
+            print("Fetching Hierarchy: No levels found.")
+            return ""
+
+        category_level = ""
+        for level in levels:
+            try:
+                # Check for either <a> or <span> tag and extract the text
+                name = None
+                if level.select_one('a'):
+                    name = level.select_one('a').text.strip()
+                elif level.select_one('span'):
+                    name = level.select_one('span').text.strip()
+
+                # Skip "HM.com" or other undesired entries
+                if name and name != "HM.com":
+                    category_level += f"/{name}"
+            except Exception as e:
+                print(f"Error parsing category hierarchy: {e}")
+                continue
+
+        return category_level
+    except Exception as e:
+        print(f"Error fetching category hierarchy for {product_link}: {e}")
+        return ""
 
 def fetch_store_availability(product_link):
     """
