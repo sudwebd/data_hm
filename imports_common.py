@@ -7,7 +7,7 @@ from threading import Lock
 import time
 import atexit
 
-category_products_map = []
+category_products_map = {}
 def exit_handler():
     for (category, product) in category_products_map:
         # Save products to file
@@ -34,10 +34,10 @@ HEADERS = {
 
 BASE_URL = "https://www2.hm.com"
 
-def scrape_hnm_category(type, ranges):
+def scrape_hnm_category(type, dir, ranges):
     """Scrape the main category and get subcategory links."""
     base_url = f"https://www2.hm.com/en_in/{type}.html"
-    output_dir = type
+    output_dir = dir
 
     try:
         response = requests.get(base_url, headers=HEADERS)
@@ -104,6 +104,8 @@ def process_subcategory(category, folder):
         if not os.path.exists(subcategory_folder):
             os.makedirs(subcategory_folder)
 
+        if subcategory_folder not in category_products_map:
+            category_products_map[subcategory_folder] = []
         products = []
         page = 1
         while True:
@@ -136,8 +138,6 @@ def process_subcategory(category, folder):
             json.dump(products, f, indent=4)
 
         print(f"Saved {len(products)} products for subcategory {subcategory_name}")
-        product_int = []
-        subcategory_folder_int = ""
     except requests.RequestException as e:
         print(f"Error scraping subcategory {category['name']}: {e}")
 
@@ -217,7 +217,6 @@ def process_product(item, subcategory_name):
     """Extract product details and fetch store availability."""
     first_div = item.select_one('section > article > div:nth-of-type(1)')
     second_div = item.select_one('section > article > div:nth-of-type(2)')
-
     if first_div and second_div:
         product_link = first_div.select_one('ul > li > a').get("href", "")
         # Fetch store availability
@@ -352,9 +351,9 @@ def fetch_store_availability(product_link):
         time.sleep(10 * 60)
         return []
 
-def scrape_hnm_categories_parallel(type):
+def scrape_hnm_categories_parallel(dir):
     """Main function to scrape all categories in parallel."""
-    with open(f"{type}/all_category.json", "r", encoding="utf-8") as f:
+    with open(f"{dir}/all_category.json", "r", encoding="utf-8") as f:
         categories = json.load(f)
 
     with ThreadPoolExecutor(max_workers=10) as executor:
@@ -369,9 +368,9 @@ def scrape_data(category_name):
     """Scrape individual category data."""
     print(f"Scraping data for category: {category_name}")
 
-def start_scraper(type, ranges):
+def start_scraper(type, dir, ranges):
      # Step 1: Scrape main category and subcategories
-    scrape_hnm_category(type, ranges)
+    scrape_hnm_category(type, dir, ranges)
 
     # Step 2: Scrape products in parallel
-    scrape_hnm_categories_parallel(type)
+    scrape_hnm_categories_parallel(dir)
